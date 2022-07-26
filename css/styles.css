@@ -18,11 +18,7 @@ body {
   width: 16.87rem;
   border-radius: 5%;
   margin: .93rem;
-
-  /* use if we have to set the position
-  top: 1rem;
-  left: 1.35rem;
-  */
+ 
 }
 
 .boldtext {
